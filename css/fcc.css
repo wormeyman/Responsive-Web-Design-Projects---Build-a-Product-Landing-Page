@@ -1,0 +1,14 @@
+/* TBD */
+#main {
+  background-color: darkgrey;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+#tribute-info {
+  display: block;
+  margin: 0 auto 0 auto;
+}
